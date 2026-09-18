@@ -1,0 +1,64 @@
+Product_ID,Product_Name,Product_Group,Ea_J_per_mol,A_per_s,Standard_Shelf_Life_Days,Standard_Temp_Min,Standard_Temp_Max
+ACT-001,Artemether/Lumefantrine,ACT,51044.8,6.44238619,730,2.0,8.0
+ACT-002,Artesunate+Amodiaquine,ACT,51044.8,6.44238619,730,2.0,8.0
+ANTM-001,Sulfadoxine/Pyrimethamine,ANTM,51044.8,6.44238619,730,2.0,8.0
+ANTM-002,Chloroquine base (as phosphate),ANTM,51044.8,6.44238619,730,2.0,8.0
+ARV-001,Efavirenz,ARV,51044.8,6.44238619,730,2.0,8.0
+ARV-002,Nevirapine,ARV,51044.8,6.44238619,730,2.0,8.0
+ARV-003,Lamivudine/Nevirapine/Zidovudine,ARV,51044.8,6.44238619,730,2.0,8.0
+ARV-004,Lamivudine/Zidovudine,ARV,51044.8,6.44238619,730,2.0,8.0
+ARV-005,Lopinavir/Ritonavir,ARV,51044.8,6.44238619,730,2.0,8.0
+ARV-006,Lamivudine,ARV,51044.8,6.44238619,730,2.0,8.0
+ARV-007,Zidovudine,ARV,51044.8,6.44238619,730,2.0,8.0
+ARV-008,Abacavir,ARV,51044.8,6.44238619,730,2.0,8.0
+ARV-009,Tenofovir Disoproxil Fumarate,ARV,51044.8,6.44238619,730,2.0,8.0
+ARV-010,Lamivudine/Tenofovir Disoproxil Fumarate,ARV,51044.8,6.44238619,730,2.0,8.0
+ARV-011,Efavirenz/Lamivudine/Tenofovir Disoproxil Fumarate,ARV,51044.8,6.44238619,730,2.0,8.0
+ARV-012,Lamivudine/Nevirapine/Stavudine,ARV,51044.8,6.44238619,730,2.0,8.0
+ARV-013,Stavudine,ARV,51044.8,6.44238619,730,2.0,8.0
+ARV-014,Didanosine,ARV,51044.8,6.44238619,730,2.0,8.0
+ARV-015,Emtricitabine/Tenofovir Disoproxil Fumarate,ARV,51044.8,6.44238619,730,2.0,8.0
+ARV-016,Lamivudine/Stavudine,ARV,51044.8,6.44238619,730,2.0,8.0
+ARV-017,Efavirenz/Emtricitabine/Tenofovir Disoproxil Fumarate,ARV,51044.8,6.44238619,730,2.0,8.0
+ARV-018,Abacavir/Lamivudine,ARV,51044.8,6.44238619,730,2.0,8.0
+ARV-019,Ritonavir,ARV,51044.8,6.44238619,730,2.0,8.0
+ARV-020,Atazanavir/Ritonavir,ARV,51044.8,6.44238619,730,2.0,8.0
+ARV-021,Saquinavir,ARV,51044.8,6.44238619,730,2.0,8.0
+ARV-022,Raltegravir,ARV,51044.8,6.44238619,730,2.0,8.0
+ARV-023,Darunavir,ARV,51044.8,6.44238619,730,2.0,8.0
+ARV-024,Didanosine EC,ARV,51044.8,6.44238619,730,2.0,8.0
+ARV-025,Indinavir,ARV,51044.8,6.44238619,730,2.0,8.0
+ARV-026,Etravirine,ARV,51044.8,6.44238619,730,2.0,8.0
+ARV-027,Atazanavir,ARV,51044.8,6.44238619,730,2.0,8.0
+ARV-028,Abacavir/Lamivudine/Zidovudine,ARV,51044.8,6.44238619,730,2.0,8.0
+ARV-029,Nelfinavir (as mesilate),ARV,51044.8,6.44238619,730,2.0,8.0
+ARV-030,Lamivudine/Zidovudine+Nevirapine,ARV,51044.8,6.44238619,730,2.0,8.0
+ARV-031,Lamivudine/Zidovudine+Efavirenz,ARV,51044.8,6.44238619,730,2.0,8.0
+HRDT-001,"HIV 1/2, Determine Complete HIV Kit",HRDT,51044.8,6.44238619,730,2.0,8.0
+HRDT-002,"HIV 1/2, Uni-Gold HIV Kit",HRDT,51044.8,6.44238619,730,2.0,8.0
+HRDT-003,"HIV 1/2, Determine HIV Kit, without Lancets",HRDT,51044.8,6.44238619,730,2.0,8.0
+HRDT-004,"HIV 1/2, Stat-Pak HIV, Kit",HRDT,51044.8,6.44238619,730,2.0,8.0
+HRDT-005,"HIV 1/2, Bioline 3.0 Kit, Lancets, Capillary pipets, Alcohol swabs included",HRDT,51044.8,6.44238619,730,2.0,8.0
+HRDT-006,"HIV 1/2, Colloidal Gold, Diagnostic Kit, Antibody",HRDT,51044.8,6.44238619,730,2.0,8.0
+HRDT-007,"HIV, Lancet, Safety, for HIV Test kits, 100 Pcs",HRDT,51044.8,6.44238619,730,2.0,8.0
+HRDT-008,"HIV 1/2, OraQuick Advance HIV Rapid Antibody Kit",HRDT,51044.8,6.44238619,730,2.0,8.0
+HRDT-009,"Chase Buffer, Determine, 100 Tests, 2.5ml x 1 Vial",HRDT,51044.8,6.44238619,730,2.0,8.0
+HRDT-010,"HIV 1/2, Capillus HIV Kit",HRDT,51044.8,6.44238619,730,2.0,8.0
+HRDT-011,"HIV, Capillary Tubes, for Determine, EDTA, 50uL,100 Pcs",HRDT,51044.8,6.44238619,730,2.0,8.0
+HRDT-012,"HIV, Genie II HIV-1/HIV-2 Kit",HRDT,51044.8,6.44238619,730,2.0,8.0
+HRDT-013,"HIV 1/2, Bioline 3.0 Kit (no accessories)",HRDT,51044.8,6.44238619,730,2.0,8.0
+HRDT-014,"HIV 1/2, Clearview Complete Kit",HRDT,51044.8,6.44238619,730,2.0,8.0
+HRDT-015,"HIV 1/2, Stat-Pak Dipstick Assay Kit",HRDT,51044.8,6.44238619,730,2.0,8.0
+HRDT-016,"HIV 1/2/O, First Response HIV 1-2.0, v.3.0 Cards Kit",HRDT,51044.8,6.44238619,730,2.0,8.0
+HRDT-017,"HIV, OraQuick Controls Kit, 3 Vials",HRDT,51044.8,6.44238619,730,2.0,8.0
+HRDT-018,"HIV 1/2, Determine Kit without Lancets, Buffer or Capillary Tubes, 100 Tests",HRDT,51044.8,6.44238619,730,2.0,8.0
+HRDT-019,"HIV 1/2, Genie III Kit",HRDT,51044.8,6.44238619,730,2.0,8.0
+HRDT-020,"HIV, Multispot HIV-1/HIV-2 Rapid Test Kit",HRDT,51044.8,6.44238619,730,2.0,8.0
+HRDT-021,"HIV 1, Uni-Gold Recombigen HIV Control, Vial 2 x 0.5 ml",HRDT,51044.8,6.44238619,730,2.0,8.0
+HRDT-022,"HIV 1/2, Bioline 3.0 Diluent, 25 Tests",HRDT,51044.8,6.44238619,730,2.0,8.0
+HRDT-023,"HIV 1/2, INSTI HIV Antibody Individual POC, 1 Test",HRDT,51044.8,6.44238619,730,2.0,8.0
+HRDT-024,"HIV 2, New LAV Blot 2 HIV Kit",HRDT,51044.8,6.44238619,730,2.0,8.0
+HRDT-025,"HIV 1/2, DoubleCheck Gold Kit",HRDT,51044.8,6.44238619,730,2.0,8.0
+HRDT-026,"HIV 1/2, HEXAGON Rapid HIV Kit",HRDT,51044.8,6.44238619,730,2.0,8.0
+HRDT-027,"HIV, Reveal G3 Rapid HIV-1 Antibody Test",HRDT,51044.8,6.44238619,730,2.0,8.0
+MRDT-001,Malaria Paramax-3 Kit,MRDT,51044.8,6.44238619,730,2.0,8.0
